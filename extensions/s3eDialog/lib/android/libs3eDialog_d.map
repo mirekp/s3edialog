@@ -1,0 +1,388 @@
+Archive member included because of file (symbol)
+
+/workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                              debug/s3eDialog_platform.os (s3eEdkThreadRunOnOS)
+/workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                              debug/s3eDialog_platform.os (IwDebugTraceIsChannelOn)
+/home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+                              /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o) (__aeabi_ldivmod)
+/home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+                              /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+                              /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+/home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+                              /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o) (__aeabi_unwind_cpp_pr0)
+/home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+                              /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o) (restore_core_regs)
+/home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+                              /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+/home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+                              /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o) (__divdi3)
+/home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+                              /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o) (__udivdi3)
+/home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+                              /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o) (__aeabi_uidiv)
+
+Discarded input sections
+
+ .text          0x00000000       0x34 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .bss           0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .text          0x00000000        0x0 debug/s3eDialog_platform.os
+ .data          0x00000000        0x0 debug/s3eDialog_platform.os
+ .note.GNU-stack
+                0x00000000        0x0 debug/s3eDialog_platform.os
+ .text          0x00000000        0x0 debug/s3eDialog.os
+ .data          0x00000000        0x0 debug/s3eDialog.os
+ .bss           0x00000000        0x0 debug/s3eDialog.os
+ .note.GNU-stack
+                0x00000000        0x0 debug/s3eDialog.os
+ .text          0x00000000        0x0 debug/s3eDialog_register.os
+ .data          0x00000000        0x0 debug/s3eDialog_register.os
+ .bss           0x00000000        0x0 debug/s3eDialog_register.os
+ .note.GNU-stack
+                0x00000000        0x0 debug/s3eDialog_register.os
+ .text          0x00000000        0x0 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .data          0x00000000        0x0 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .bss           0x00000000        0x0 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .text.s3eEdkErrorSetString
+                0x00000000       0x30 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .text.s3eEdkThreadRunOnOSAsync
+                0x00000000       0x30 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .note.GNU-stack
+                0x00000000        0x0 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+ .text          0x00000000        0x0 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .data          0x00000000        0x0 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwDebugClearConfigCache
+                0x00000000       0x80 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwDebugAssertIsChannelOn
+                0x00000000      0x1ec /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwDebugAssertShow
+                0x00000000      0x2e8 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwDebugAssertSetSolution
+                0x00000000       0xb4 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwDebugAssertSetMessage
+                0x00000000       0xfc /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwAssertRegisterTextCallback
+                0x00000000       0x1c /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwAssertRegisterCallback
+                0x00000000       0x1c /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwDebugTraceDisable
+                0x00000000       0x10 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwDebugTraceChannelSwitch
+                0x00000000      0x1e4 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwDebugErrorRegisterCallback
+                0x00000000       0x1c /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwDebugErrorShow
+                0x00000000      0x108 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text.IwDebugAssertSetUID
+                0x00000000       0x14 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .note.GNU-stack
+                0x00000000        0x0 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .data          0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .bss           0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .data          0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .ARM.extab     0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .bss           0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .data          0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+ .bss           0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+ .data          0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .bss           0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .data          0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ .data          0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+ .text          0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+ .data          0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+ .bss           0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+Memory map
+
+ ** file header
+                0x00000000       0x34
+ ** segment headers
+                0x00000034      0x100
+
+.interp         0x00000134       0x13
+ ** fill        0x00000134       0x13
+
+.dynsym         0x00000148      0x5c0
+ ** dynsym      0x00000148      0x5c0
+
+.dynstr         0x00000708      0x6d8
+ ** string table
+                0x00000708      0x6d8
+
+.hash           0x00000de0      0x284
+ ** hash        0x00000de0      0x284
+
+.rel.dyn        0x00001064       0x88
+ ** dynamic relocs
+                0x00001064       0x88
+
+.rel.plt        0x000010ec       0xc0
+ ** dynamic relocs
+                0x000010ec       0xc0
+
+.plt            0x000011ac      0x134
+ ** PLT         0x000011ac      0x134
+
+.text           0x000012e0     0x2ec8
+ .text.exit     0x000012e0       0x10 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x000012e0                __on_dlclose
+ .text.startup._GLOBAL__sub_I_IwDebug.cpp
+                0x000012f0       0x88 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .text._ZN7_JNIEnv9FindClassEPKc
+                0x00001378       0x38 debug/s3eDialog_platform.os
+                0x00001378                _JNIEnv::FindClass(char const*)
+ .text._ZN7_JNIEnv17ExceptionOccurredEv
+                0x000013b0       0x30 debug/s3eDialog_platform.os
+                0x000013b0                _JNIEnv::ExceptionOccurred()
+ .text._ZN7_JNIEnv17ExceptionDescribeEv
+                0x000013e0       0x28 debug/s3eDialog_platform.os
+                0x000013e0                _JNIEnv::ExceptionDescribe()
+ .text._ZN7_JNIEnv14ExceptionClearEv
+                0x00001408       0x28 debug/s3eDialog_platform.os
+                0x00001408                _JNIEnv::ExceptionClear()
+ .text._ZN7_JNIEnv12NewGlobalRefEP8_jobject
+                0x00001430       0x38 debug/s3eDialog_platform.os
+                0x00001430                _JNIEnv::NewGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv15DeleteGlobalRefEP8_jobject
+                0x00001468       0x30 debug/s3eDialog_platform.os
+                0x00001468                _JNIEnv::DeleteGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv14DeleteLocalRefEP8_jobject
+                0x00001498       0x30 debug/s3eDialog_platform.os
+                0x00001498                _JNIEnv::DeleteLocalRef(_jobject*)
+ .text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x000014c8       0x58 debug/s3eDialog_platform.os
+                0x000014c8                _JNIEnv::NewObject(_jclass*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x00001520       0x48 debug/s3eDialog_platform.os
+                0x00001520                _JNIEnv::GetMethodID(_jclass*, char const*, char const*)
+ .text._ZN7_JNIEnv17CallBooleanMethodEP8_jobjectP10_jmethodIDz
+                0x00001568       0x5c debug/s3eDialog_platform.os
+                0x00001568                _JNIEnv::CallBooleanMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv12NewStringUTFEPKc
+                0x000015c4       0x38 debug/s3eDialog_platform.os
+                0x000015c4                _JNIEnv::NewStringUTF(char const*)
+ .text._ZN7_JNIEnv15RegisterNativesEP7_jclassPK15JNINativeMethodi
+                0x000015fc       0x48 debug/s3eDialog_platform.os
+                0x000015fc                _JNIEnv::RegisterNatives(_jclass*, JNINativeMethod const*, int)
+ .text._ZN7_JavaVM6GetEnvEPPvi
+                0x00001644       0x40 debug/s3eDialog_platform.os
+                0x00001644                _JavaVM::GetEnv(void**, int)
+ .text._ZL15s3eEdkJNIGetEnvv
+                0x00001684       0x40 debug/s3eDialog_platform.os
+ .text._ZL27s3eEdkAndroidFindClass_realPKc
+                0x000016c4       0x8c debug/s3eDialog_platform.os
+ .text._ZL22s3eEdkAndroidFindClassPKc
+                0x00001750       0x38 debug/s3eDialog_platform.os
+ .text._Z21Dialog_dialogCallbackP7_JNIEnvP8_jobjectii
+                0x00001788       0x6c debug/s3eDialog_platform.os
+                0x00001788                Dialog_dialogCallback(_JNIEnv*, _jobject*, int, int)
+ .text._Z22s3eDialogInit_platformv
+                0x000017f4      0x26c debug/s3eDialog_platform.os
+                0x000017f4                s3eDialogInit_platform()
+ .text._Z27s3eDialogTerminate_platformv
+                0x00001a60        0x4 debug/s3eDialog_platform.os
+                0x00001a60                s3eDialogTerminate_platform()
+ .text._Z26s3eDialogAlertBox_platformP18s3eDialogAlertInfo
+                0x00001a64      0x12c debug/s3eDialog_platform.os
+                0x00001a64                s3eDialogAlertBox_platform(s3eDialogAlertInfo*)
+ .text._Z13s3eDialogInitv
+                0x00001b90       0x14 debug/s3eDialog.os
+                0x00001b90                s3eDialogInit()
+ .text.s3eDialogRegister
+                0x00001ba4       0x50 debug/s3eDialog.os
+                0x00001ba4                s3eDialogRegister
+ .text.s3eDialogUnRegister
+                0x00001bf4       0x44 debug/s3eDialog.os
+                0x00001bf4                s3eDialogUnRegister
+ .text._Z18s3eDialogTerminatev
+                0x00001c38        0xc debug/s3eDialog.os
+                0x00001c38                s3eDialogTerminate()
+ .text.s3eDialogAlertBox
+                0x00001c44       0x24 debug/s3eDialog.os
+                0x00001c44                s3eDialogAlertBox
+ .text.s3eDialogGetErrorString
+                0x00001c68        0xc debug/s3eDialog_register.os
+                0x00001c68                s3eDialogGetErrorString
+ .text.s3eDialogGetError
+                0x00001c74       0x1c debug/s3eDialog_register.os
+                0x00001c74                s3eDialogGetError
+ .text._ZL22s3eDialogAlertBox_wrapP18s3eDialogAlertInfo
+                0x00001c90       0xa0 debug/s3eDialog_register.os
+ .text._Z20s3eDialogRegisterExtv
+                0x00001d30      0x130 debug/s3eDialog_register.os
+                0x00001d30                s3eDialogRegisterExt()
+ .text.RegisterExt
+                0x00001e60        0xc debug/s3eDialog_register.os
+                0x00001e60                RegisterExt
+ .text.s3eEdkThreadRunOnOS
+                0x00001e6c       0x30 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(edk_helpers.o)
+                0x00001e6c                s3eEdkThreadRunOnOS
+ .text.IwDebugTraceIsChannelOn
+                0x00001e9c      0x27c /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00001e9c                IwDebugTraceIsChannelOn
+ .text.IwDebugTraceSetTraceChannel
+                0x00002118       0x1c /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00002118                IwDebugTraceSetTraceChannel
+ .text.IwDebugTraceLineVPrintf
+                0x00002134       0xfc /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00002134                IwDebugTraceLineVPrintf
+ .text.IwDebugTraceLinePrintf
+                0x00002230       0x30 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x00002230                IwDebugTraceLinePrintf
+ .text          0x00002260       0x44 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_aeabi_ldivmod.o)
+                0x00002260                __aeabi_ldivmod
+ .text          0x000022a4       0x10 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+                0x000022a4                __aeabi_idiv0
+                0x000022a4                __aeabi_ldiv0
+ .text          0x000022b4       0x78 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+                0x000022b4                __gnu_ldivmod_helper
+                0x000022f0                __gnu_uldivmod_helper
+ .text          0x0000232c      0xeec /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+                0x00002ea8                __aeabi_unwind_cpp_pr0
+                0x00002eb0                __aeabi_unwind_cpp_pr1
+                0x00002eb8                __aeabi_unwind_cpp_pr2
+                0x00002764                _Unwind_GetCFA
+                0x0000276c                __gnu_Unwind_RaiseException
+                0x00002810                __gnu_Unwind_ForcedUnwind
+                0x0000282c                __gnu_Unwind_Resume
+                0x000028a0                __gnu_Unwind_Resume_or_Rethrow
+                0x000028c0                _Unwind_Complete
+                0x000028c4                _Unwind_DeleteException
+                0x000028e4                _Unwind_VRS_Get
+                0x00002968                _Unwind_VRS_Set
+                0x000029f0                __gnu_Unwind_Backtrace
+                0x00002ec0                _Unwind_VRS_Pop
+ .text          0x00003218      0x1a8 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(libunwind.o)
+                0x00003218                __restore_core_regs
+                0x00003218                restore_core_regs
+                0x0000322c                __gnu_Unwind_Restore_VFP
+                0x00003234                __gnu_Unwind_Save_VFP
+                0x0000323c                __gnu_Unwind_Restore_VFP_D
+                0x00003244                __gnu_Unwind_Save_VFP_D
+                0x0000324c                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x00003254                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x0000325c                __gnu_Unwind_Restore_WMMXD
+                0x000032a0                __gnu_Unwind_Save_WMMXD
+                0x000032e4                __gnu_Unwind_Restore_WMMXC
+                0x000032f8                __gnu_Unwind_Save_WMMXC
+                0x0000330c                ___Unwind_RaiseException
+                0x0000330c                _Unwind_RaiseException
+                0x00003330                ___Unwind_Resume
+                0x00003330                _Unwind_Resume
+                0x00003354                ___Unwind_Resume_or_Rethrow
+                0x00003354                _Unwind_Resume_or_Rethrow
+                0x00003378                ___Unwind_ForcedUnwind
+                0x00003378                _Unwind_ForcedUnwind
+                0x0000339c                ___Unwind_Backtrace
+                0x0000339c                _Unwind_Backtrace
+ .text          0x000033c0      0x484 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+                0x0000344c                __gnu_unwind_execute
+                0x000037c8                __gnu_unwind_frame
+                0x00003808                _Unwind_GetRegionStart
+                0x00003818                _Unwind_GetLanguageSpecificData
+                0x00003834                _Unwind_GetDataRelBase
+                0x0000383c                _Unwind_GetTextRelBase
+ .text          0x00003844      0x498 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+                0x00003844                __divdi3
+ .text          0x00003cdc      0x404 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+                0x00003cdc                __udivdi3
+ .text          0xffffffffffffffff       0xc8 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivsi3.o)
+                0x000040e0                __udivsi3
+                0x000040e0                __aeabi_uidiv
+                0x00004188                __aeabi_uidivmod
+
+.rodata         0x000041a8      0x286
+ .rodata        0x000041a8       0xf4 debug/s3eDialog_platform.os
+ .rodata        0x0000429c       0x78 debug/s3eDialog_register.os
+ ** merge strings
+                0x00004314      0x11a
+
+.ARM.extab      0x00004430       0x48
+ .ARM.extab     0x00004430        0xc /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .ARM.extab     0x0000443c        0xc /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ .ARM.extab     0x00004448       0x30 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+
+.ARM.exidx      0x00004478      0x128
+ .ARM.exidx     0x00004478        0x8 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_dvmd_lnx.o)
+ .ARM.exidx     0xffffffffffffffff       0x10 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(bpabi.o)
+ .ARM.exidx     0xffffffffffffffff       0xd8 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(unwind-arm.o)
+ ** ARM cantunwind
+                0x00004538        0x8
+ .ARM.exidx     0x00004540       0x48 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(pr-support.o)
+ .ARM.exidx     0x00004588        0x8 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x00004590        0x8 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.8/libgcc.a(_udivdi3.o)
+ ** ARM cantunwind
+                0x00004598        0x8
+
+.fini_array     0x00005e68        0x8
+ .fini_array    0x00005e68        0x4 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+ .fini_array    0x00005e6c        0x4 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.data.rel.ro    0x00005e70        0xc
+ .data.rel.ro   0x00005e70        0xc debug/s3eDialog_platform.os
+
+.init_array     0x00005e7c        0x8
+ .init_array    0x00005e7c        0x4 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+ .init_array    0x00005e80        0x4 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-arm/usr/lib/crtend_so.o
+
+.dynamic        0x00005e84       0xe0
+ ** dynamic     0x00005e84       0xe0
+
+.got            0x00005f64       0x9c
+ ** GOT         0x00005f64       0x30
+ ** GOT PLT     0x00005f94       0x6c
+
+.data           0x00006000        0x4
+ .data          0x00006000        0x4 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-arm/usr/lib/crtbegin_so.o
+                0x00006000                __dso_handle
+
+.bss            0x00006004     0x1a30
+ .bss           0x00006004        0x8 debug/s3eDialog_platform.os
+ .bss           0x0000600c     0x1a28 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/libedk.a(IwDebug.o)
+                0x0000600c                g_DebugGlobals

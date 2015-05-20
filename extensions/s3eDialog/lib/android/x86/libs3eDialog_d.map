@@ -1,0 +1,252 @@
+Archive member included because of file (symbol)
+
+/workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(edk_helpers.o)
+                              debug/s3eDialog_platform.os (s3eEdkThreadRunOnOS)
+/workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(IwDebug.o)
+                              debug/s3eDialog_platform.os (IwDebugTraceIsChannelOn)
+/home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/x86-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/i686-linux-android/4.8/libgcc.a(_moddi3.o)
+                              /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(IwDebug.o) (__moddi3)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtbegin_so.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtbegin_so.o
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog_platform.os
+ .text.__x86.get_pc_thunk.bx
+                0x00000000        0x4 debug/s3eDialog_platform.os
+ .note.GNU-stack
+                0x00000000        0x0 debug/s3eDialog_platform.os
+ .group         0x00000000        0x8 debug/s3eDialog.os
+ .text.__x86.get_pc_thunk.bx
+                0x00000000        0x4 debug/s3eDialog.os
+ .note.GNU-stack
+                0x00000000        0x0 debug/s3eDialog.os
+ .group         0x00000000        0x8 debug/s3eDialog_register.os
+ .text.__x86.get_pc_thunk.bx
+                0x00000000        0x4 debug/s3eDialog_register.os
+ .note.GNU-stack
+                0x00000000        0x0 debug/s3eDialog_register.os
+ .group         0x00000000        0x8 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(edk_helpers.o)
+ .text.__x86.get_pc_thunk.bx
+                0x00000000        0x4 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(edk_helpers.o)
+ .note.GNU-stack
+                0x00000000        0x0 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(edk_helpers.o)
+ .group         0x00000000        0x8 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(IwDebug.o)
+ .group         0x00000000        0x8 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(IwDebug.o)
+ .text.__x86.get_pc_thunk.bx
+                0x00000000        0x4 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(IwDebug.o)
+ .note.GNU-stack
+                0x00000000        0x0 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(IwDebug.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/x86-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/i686-linux-android/4.8/libgcc.a(_moddi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtend_so.o
+
+Memory map
+
+ ** file header
+                0x00000000       0x34
+ ** segment headers
+                0x00000034       0xe0
+
+.dynsym         0x00000114      0x230
+ ** dynsym      0x00000114      0x230
+
+.dynstr         0x00000344      0x234
+ ** string table
+                0x00000344      0x234
+
+.hash           0x00000578       0xd8
+ ** hash        0x00000578       0xd8
+
+.rel.dyn        0x00000650       0x58
+ ** dynamic relocs
+                0x00000650       0x58
+
+.rel.plt        0x000006a8       0xe8
+ ** dynamic relocs
+                0x000006a8       0xe8
+
+.plt            0x00000790      0x1e0
+ ** PLT         0x00000790      0x1e0
+
+.text           0x00000970     0x1b3d
+ .text.exit     0x00000970       0x24 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtbegin_so.o
+                0x00000970                __on_dlclose
+ .text.startup  0x000009a0       0x8f /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(IwDebug.o)
+ .text          0x00000a30       0x7b /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtbegin_so.o
+                0x00000a30                __atexit_handler_wrapper
+                0x00000a50                atexit
+                0x00000a90                __stack_chk_fail_local
+ .text.__x86.get_pc_thunk.bx
+                0x00000aab        0xc /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtbegin_so.o
+                0x00000aab                __x86.get_pc_thunk.bx
+ .text          0x00000ab7      0x471 debug/s3eDialog_platform.os
+                0x00000bbb                Dialog_dialogCallback(_JNIEnv*, _jobject*, int, int)
+                0x00000c24                s3eDialogInit_platform()
+                0x00000e1e                s3eDialogTerminate_platform()
+                0x00000e23                s3eDialogAlertBox_platform(s3eDialogAlertInfo*)
+ .text._ZN7_JNIEnv9FindClassEPKc
+                0x00000f28       0x20 debug/s3eDialog_platform.os
+                0x00000f28                _JNIEnv::FindClass(char const*)
+ .text._ZN7_JNIEnv17ExceptionOccurredEv
+                0x00000f48       0x19 debug/s3eDialog_platform.os
+                0x00000f48                _JNIEnv::ExceptionOccurred()
+ .text._ZN7_JNIEnv17ExceptionDescribeEv
+                0x00000f62       0x19 debug/s3eDialog_platform.os
+                0x00000f62                _JNIEnv::ExceptionDescribe()
+ .text._ZN7_JNIEnv14ExceptionClearEv
+                0x00000f7c       0x19 debug/s3eDialog_platform.os
+                0x00000f7c                _JNIEnv::ExceptionClear()
+ .text._ZN7_JNIEnv12NewGlobalRefEP8_jobject
+                0x00000f96       0x20 debug/s3eDialog_platform.os
+                0x00000f96                _JNIEnv::NewGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv15DeleteGlobalRefEP8_jobject
+                0x00000fb6       0x20 debug/s3eDialog_platform.os
+                0x00000fb6                _JNIEnv::DeleteGlobalRef(_jobject*)
+ .text._ZN7_JNIEnv14DeleteLocalRefEP8_jobject
+                0x00000fd6       0x20 debug/s3eDialog_platform.os
+                0x00000fd6                _JNIEnv::DeleteLocalRef(_jobject*)
+ .text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x00000ff6       0x3a debug/s3eDialog_platform.os
+                0x00000ff6                _JNIEnv::NewObject(_jclass*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x00001030       0x31 debug/s3eDialog_platform.os
+                0x00001030                _JNIEnv::GetMethodID(_jclass*, char const*, char const*)
+ .text._ZN7_JNIEnv17CallBooleanMethodEP8_jobjectP10_jmethodIDz
+                0x00001062       0x3e debug/s3eDialog_platform.os
+                0x00001062                _JNIEnv::CallBooleanMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv12NewStringUTFEPKc
+                0x000010a0       0x23 debug/s3eDialog_platform.os
+                0x000010a0                _JNIEnv::NewStringUTF(char const*)
+ .text._ZN7_JNIEnv15RegisterNativesEP7_jclassPK15JNINativeMethodi
+                0x000010c4       0x31 debug/s3eDialog_platform.os
+                0x000010c4                _JNIEnv::RegisterNatives(_jclass*, JNINativeMethod const*, int)
+ .text._ZN7_JavaVM6GetEnvEPPvi
+                0x000010f6       0x27 debug/s3eDialog_platform.os
+                0x000010f6                _JavaVM::GetEnv(void**, int)
+ .text          0x0000111d       0xf2 debug/s3eDialog.os
+                0x0000111d                s3eDialogInit()
+                0x0000113c                s3eDialogRegister
+                0x00001187                s3eDialogUnRegister
+                0x000011cb                s3eDialogTerminate()
+                0x000011ea                s3eDialogAlertBox
+ .text          0x0000120f      0x17d debug/s3eDialog_register.os
+                0x0000120f                s3eDialogGetErrorString
+                0x00001219                s3eDialogGetError
+                0x000012b1                s3eDialogRegisterExt()
+                0x0000137e                RegisterExt
+ .text          0x00001390       0xa2 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(edk_helpers.o)
+                0x00001390                s3eEdkErrorSetString
+                0x000013c0                s3eEdkThreadRunOnOS
+                0x00001400                s3eEdkThreadRunOnOSAsync
+ .text          0x00001440      0xeb6 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(IwDebug.o)
+                0x00001440                IwDebugClearConfigCache
+                0x000014c0                IwDebugAssertIsChannelOn
+                0x000016c0                IwDebugAssertShow
+                0x000019b0                IwDebugAssertSetSolution
+                0x00001ab0                IwDebugAssertSetMessage
+                0x00001c10                IwAssertRegisterTextCallback
+                0x00001c30                IwAssertRegisterCallback
+                0x00001c50                IwDebugTraceDisable
+                0x00001c80                IwDebugTraceIsChannelOn
+                0x00001ed0                IwDebugTraceSetTraceChannel
+                0x00001ef0                IwDebugTraceChannelSwitch
+                0x00002090                IwDebugTraceLineVPrintf
+                0x000021b0                IwDebugTraceLinePrintf
+                0x000021d0                IwDebugErrorRegisterCallback
+                0x000021f0                IwDebugErrorShow
+                0x000022e0                IwDebugAssertSetUID
+ .text.__x86.get_pc_thunk.cx
+                0x000022f6        0x4 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(IwDebug.o)
+                0x000022f6                __x86.get_pc_thunk.cx
+ .text          0x000022fa      0x182 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/x86-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/i686-linux-android/4.8/libgcc.a(_moddi3.o)
+                0x000022fa                __moddi3
+ .text          0x0000247c        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtend_so.o
+ ** fill        0x0000247c        0x5
+ ** fill        0x00002481        0x1
+ ** fill        0x00002482        0x1
+ ** fill        0x00002483        0x1
+ ** fill        0x00002484        0x1
+ ** fill        0x00002485        0x1
+ ** fill        0x00002486        0x1
+ ** fill        0x00002487        0x1
+ ** fill        0x00002488        0xa
+ ** fill        0x00002492        0xe
+ ** fill        0x000024a0        0xa
+ ** fill        0x000024aa        0x3
+
+.rodata         0x000024b0      0x26c
+ .rodata        0x000024b0       0xec debug/s3eDialog_platform.os
+ .rodata        0x0000259c       0x72 debug/s3eDialog_register.os
+ ** merge strings
+                0x0000260e       0x84
+ ** merge strings
+                0x00002694       0x88
+
+.eh_frame       0x0000271c      0x8f0
+ ** eh_frame    0x0000271c      0x8ec
+ .eh_frame      0x00003008        0x4 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtend_so.o
+
+.eh_frame_hdr   0x0000300c      0x1dc
+ ** eh_frame_hdr
+                0x0000300c      0x1dc
+
+.fini_array     0x00004e70        0x8
+ .fini_array    0x00004e70        0x4 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtbegin_so.o
+ .fini_array    0x00004e74        0x4 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtend_so.o
+
+.data.rel.ro    0x00004e78        0xc
+ .data.rel.ro   0x00004e78        0xc debug/s3eDialog_platform.os
+
+.init_array     0x00004e84        0x8
+ .init_array    0x00004e84        0x4 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(IwDebug.o)
+ .init_array    0x00004e88        0x4 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtend_so.o
+
+.dynamic        0x00004e8c       0xe0
+ ** dynamic     0x00004e8c       0xe0
+
+.got            0x00004f6c       0x14
+ ** GOT         0x00004f6c       0x14
+
+.got.plt        0x00004f80       0x80
+ ** GOT PLT     0x00004f80       0x80
+ ** GOT IRELATIVE PLT
+                0x00005000        0x0
+ ** GOT         0x00005000        0x0
+
+.data           0x00005000        0x4
+ .data          0x00005000        0x4 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtbegin_so.o
+                0x00005000                __dso_handle
+ .data          0x00005004        0x0 debug/s3eDialog_platform.os
+ .data          0x00005004        0x0 debug/s3eDialog.os
+ .data          0x00005004        0x0 debug/s3eDialog_register.os
+ .data          0x00005004        0x0 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(edk_helpers.o)
+ .data          0x00005004        0x0 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(IwDebug.o)
+ .data          0x00005004        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/x86-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/i686-linux-android/4.8/libgcc.a(_moddi3.o)
+ .data          0x00005004        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtend_so.o
+
+.bss            0x00005020     0x2948
+ .bss           0x00005020        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtbegin_so.o
+ .bss           0x00005020        0x8 debug/s3eDialog_platform.os
+ .bss           0x00005028        0x0 debug/s3eDialog.os
+ .bss           0x00005028        0x0 debug/s3eDialog_register.os
+ .bss           0x00005028        0x0 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(edk_helpers.o)
+ .bss           0x00005040     0x2928 /workspaces/jenkins/workspace/ReleaseLinuxFullBinaries/sdk/s3e/edk/lib/android/x86/libedk.a(IwDebug.o)
+                0x00005040                g_DebugGlobals
+ .bss           0x00007968        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/toolchains/x86-4.8/prebuilt/linux-x86_64/bin/../lib/gcc/i686-linux-android/4.8/libgcc.a(_moddi3.o)
+ .bss           0x00007968        0x0 /home/jenkins/.local/share/marmalade/mkb/archives/android-ndk-r10d-linux-x86_64-tar-bz2/platforms/android-14/arch-x86/usr/lib/crtend_so.o
